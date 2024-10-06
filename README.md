@@ -1,5 +1,4 @@
 # 👋 Hi there! I'm Ameya Kanchan
-
 Welcome to my GitHub profile! I'm a passionate backend developer with a strong focus on building robust applications using the Java Spring tech stack. I love exploring new technologies and contributing to open-source projects.
 
 ## 🔧 Technologies & Tools
